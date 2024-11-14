@@ -16,7 +16,7 @@ export default function Home() {
       <div className="flex flex-col gap-4">
         <p>
           <strong>Salvo el módulo de Formación en Centros de Trabajo</strong>{" "}
-          (las "prácticas"), <strong>la respuesta es no</strong>. En general,
+          (las &quot;prácticas&quot;), <strong>la respuesta es no</strong>. En general,
           <strong>
             no es posible convalidar un módulo acreditando experiencia laboral a
             través de un informe de vida laboral.

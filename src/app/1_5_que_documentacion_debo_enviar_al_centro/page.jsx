@@ -31,7 +31,7 @@ export default function Home() {
             className="text-blue-500 underline"
           >
             {" "}
-            enlace (ver "Impreso solicitud convalidación módulos profesionales")
+            enlace (ver &quot;Impreso solicitud convalidación módulos profesionales&quot;)
           </a>
           . En ese documento es imprescindible que cumplimentes todos los
           apartados. En este{" "}
@@ -44,7 +44,7 @@ export default function Home() {
           puedes consultar los módulos de cada ciclo impartido con{" "}
           <strong>
             su nombre y el código exacto. Para ello, debes desplegar dentro de
-            cada centro, el apartado "Módulos ofertados de este ciclo". Recuerda
+            cada centro, el apartado &quot;Módulos ofertados de este ciclo&quot;. Recuerda
             que el plazo para enviar la solicitud de convalidación concluye a
             finales de octubre.
           </strong>
